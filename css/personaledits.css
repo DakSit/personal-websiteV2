@@ -1,0 +1,16 @@
+.intro {
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif !important;
+  margin-top: 5rem;
+}
+
+.belowintro {
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.smallPadding {
+    margin-bottom: 1.5rem !important;
+}
